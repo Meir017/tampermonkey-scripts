@@ -21,4 +21,9 @@ and play the video, even offline
 
 Adds torrent magnet links directly from the search results without needing to click on any result
 
+works for any of the websites:
+- https://1337x.to/
+- https://1337xx.to/
+- https://www.1337xxx.to/
+
 ![1337x-magnet-links.js](./1337x-magnet-links.gif)
