@@ -7,4 +7,4 @@ requirements:
 
 download and install https://youtube-dl.org/
 
-![israeli-tv-downloader.js](./israeli-tv-download.webm)
+![israeli-tv-downloader.js](./israeli-tv-download.gif)
