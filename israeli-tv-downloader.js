@@ -8,6 +8,7 @@
 // @match        https://13tv.co.il/**
 // @match        https://kanapi.media.kan.org.il/Players/ByPlayer/V1/ipbc/*/HLS
 // @match        https://play.hot.net.il/**
+// @match        https://vod.walla.co.il/**
 // @grant        GM_setClipboard
 // ==/UserScript==
 

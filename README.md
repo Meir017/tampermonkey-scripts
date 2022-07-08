@@ -8,6 +8,7 @@ works for any tv show on the following websites:
 - https://13tv.co.il
 - https://www.kan.org.il/
 - https://play.hot.net.il/
+- https://vod.walla.co.il
 
 requirements:
 
