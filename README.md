@@ -22,3 +22,9 @@ and play the video, even offline
 Adds torrent magnet links directly from the search results without needing to click on any result
 
 ![1337x-magnet-links.js](./1337x-magnet-links.gif)
+
+## facebook-adblock.js
+
+Removes sponsored ads after hovering over the `sponsored` text.
+
+![facebook-adblock.js](./facebook-adblock.gif)
