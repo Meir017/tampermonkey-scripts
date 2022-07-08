@@ -16,3 +16,9 @@ download and install https://youtube-dl.org/
 
 and play the video, even offline
 ![image](https://user-images.githubusercontent.com/9786571/177939175-5bb21c81-09bc-4d39-bb2d-49a6264abee9.png)
+
+## 1337x-magnet-links.js
+
+Adds torrent magnet links directly from the search results without needing to click on any result
+
+![1337x-magnet-links.js](./1337x-magnet-links.gif)
