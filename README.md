@@ -23,6 +23,13 @@ Adds torrent magnet links directly from the search results without needing to cl
 
 ![1337x-magnet-links.js](./1337x-magnet-links.gif)
 
+works for any of the websites:
+- https://1337x.to/
+- https://1337xx.to/
+- https://www.1337xxx.to/
+
+![1337x-magnet-links.js](./1337x-magnet-links.gif)
+
 ## facebook-adblock.js
 
 Removes sponsored ads after hovering over the `sponsored` text.

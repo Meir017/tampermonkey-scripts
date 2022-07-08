@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  1337x torrent links
-// @author       You
+// @author       Meir Blachman
 // @match        https://1337x.to/search/*
 // @match        https://1337x.to/sort-search/*
 // @match        https://1337xx.to/search/*
