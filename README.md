@@ -7,6 +7,7 @@ works for any tv show on the following websites:
 - https://www.mako.co.il
 - https://13tv.co.il
 - https://www.kan.org.il/
+- https://play.hot.net.il/
 
 requirements:
 
