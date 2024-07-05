@@ -14,11 +14,18 @@ requirements:
 
 download and install https://youtube-dl.org/
 
-### Windows
+### Windows installation
 
 ```ps1
 winget install --id youtube-dl.youtube-dl
 ```
+
+### Using
+
+- Browse to one of the supported websites
+- Click to view a specific video
+- One the alert opens, click OK
+- Open a terminal and paste in the copied command
 
 ![israeli-tv-downloader.js](./israeli-tv-downloader.gif)
 
