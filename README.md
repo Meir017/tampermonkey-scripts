@@ -14,6 +14,12 @@ requirements:
 
 download and install https://youtube-dl.org/
 
+### Windows
+
+```ps1
+winget install --id youtube-dl.youtube-dl
+```
+
 ![israeli-tv-downloader.js](./israeli-tv-downloader.gif)
 
 and play the video, even offline
