@@ -7,6 +7,7 @@
 // @match        https://www.mako.co.il/**
 // @match        https://13tv.co.il/**
 // @match        https://kanapi.media.kan.org.il/Players/ByPlayer/V1/ipbc/*/HLS
+// @match        https://www.kan.org.il/content/kan/kan-11/**
 // @match        https://play.hot.net.il/**
 // @match        https://vod.walla.co.il/**
 // @grant        GM_setClipboard
